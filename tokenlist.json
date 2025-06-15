@@ -1,0 +1,19 @@
+{
+  "name": "AXION",
+  "timestamp": "2025-06-15T12:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xde32a6dc2b6c90b4ab4d70b7858ebabf0640748c",
+      "name": "AXION",
+      "symbol": "AX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Matus516/axionaeternum/main/Logo%20-%20AXION.png"
+    }
+  ]
+}
